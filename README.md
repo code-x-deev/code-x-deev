@@ -1,106 +1,42 @@
-<!-- ❄️ SNOW BACKGROUND EFFECT -->
-<style>
-  body {
-    margin: 0;
-    overflow-x: hidden;
-    background: #0d1117;
-  }
-
-  .snow {
-    position: fixed;
-    top: -10px;
-    width: 8px;
-    height: 8px;
-    background: white;
-    border-radius: 50%;
-    opacity: 0.8;
-    animation: fall linear infinite;
-  }
-
-  @keyframes fall {
-    0% {
-      transform: translateY(0);
-    }
-    100% {
-      transform: translateY(100vh);
-    }
-  }
-</style>
-
-<!-- 🔥 HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=CodeX%20Dev&fontSize=40&fontColor=00ffcc&animation=fadeIn"/>
-</div>
-
-<!-- ⚡ TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+Cool+Projects" />
-</div>
-
----
-
-<!-- 👨‍💻 ABOUT -->
-<h2 align="center">👨‍💻 About Me</h2>
-
 <p align="center">
-I am <b>CodeX Dev</b> 💻 <br>
-Full Stack Developer ⚡ <br>
-I love building modern web apps 🚀 <br>
-Always improving my skills 📈
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=Hi+I'm+code-x-deev;Full+Stack+Developer;Cybersecurity+Learner;Building+Cool+Projects+⚡" />
 </p>
 
----
-
-<!-- 🛠️ SKILLS -->
-<h2 align="center">⚒️ Skills</h2>
+# 🖤 CODEX DEV </>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,linux,git,github,vscode" />
+  <img src="https://i.imgur.com/8Km9tLL.png" width="180"/>
 </p>
 
----
+## 👨‍💻 About Me
+Name: code-x-deev  
+ID: 1462899951058157598  
+Role: Developer  
+Level: ~80% Dev Skills  
+Focus: Web Dev | Cybersecurity | Automation  
 
-<!-- 📊 GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+## ⚡ Skills
+HTML • CSS • JavaScript • Python • GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-x-deev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=code-x-deev&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<!-- 🐍 SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<!-- 💬 QUOTE -->
-<h2 align="center">💬 Quote</h2>
+## 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-x-deev&show_icons=true&theme=radical" />
+</p>
 
 <p align="center">
-<code>"Build. Break. Learn. Repeat."</code>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-x-deev&theme=radical" />
 </p>
 
----
-
-<!-- 📫 CONTACT -->
-<h2 align="center">📫 Contact</h2>
-
+## 🐍 Contribution Snake
 <p align="center">
-<a href="https://discord.com/users/1462899951058157598">
-  <img src="https://lanyard.cnrad.dev/api/1462899951058157598?theme=dark&bg=000000" />
-</a>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+## 💀 Dev Vibes
+Coding day & night ⚡  
+Cybersecurity learner 🛡️  
+Building future tools 🚀  
+No limits mindset 💀  
 
-<!-- 🔥 FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=120&section=footer"/>
-</div>
+## 📡 Contact
+GitHub: https://github.com/code-x-deev
