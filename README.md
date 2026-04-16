@@ -1,42 +1,42 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=Hi+I'm+code-x-deev;Full+Stack+Developer;Cybersecurity+Learner;Building+Cool+Projects+⚡" />
-</p>
-
-# 🖤 CODEX DEV </>
+<h1 align="center">🖤 code-x-deev</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="180"/>
+  Full Stack Developer • Cybersecurity Learner • Builder ⚡
 </p>
+
+---
 
 ## 👨‍💻 About Me
-Name: code-x-deev  
-ID: 1462899951058157598  
-Role: Developer  
-Level: ~80% Dev Skills  
-Focus: Web Dev | Cybersecurity | Automation  
+- Name: code-x-deev  
+- ID: 1462899951058157598  
+- Focus: Web Development + Cybersecurity  
+- Level: Intermediate (~80%)
 
-## ⚡ Skills
-HTML • CSS • JavaScript • Python • GitHub  
+---
+
+## ⚡ Tech Stack
+HTML • CSS • JavaScript • Python • Git & GitHub
+
+---
 
 ## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-x-deev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-x-deev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-x-deev&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-x-deev&theme=tokyonight" />
 </p>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
-## 💀 Dev Vibes
-Coding day & night ⚡  
-Cybersecurity learner 🛡️  
-Building future tools 🚀  
-No limits mindset 💀  
+## 🧠 Dev Mindset
+- Build > Talk  
+- Learn every day  
+- Security first  
+- Keep it simple ⚡  
+
+---
 
 ## 📡 Contact
 GitHub: https://github.com/code-x-deev
